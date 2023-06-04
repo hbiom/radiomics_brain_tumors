@@ -1,6 +1,6 @@
 
 
-EDA.ipynb
+*.ipynb_checkpoints
 
 *.bundle.*
 lib/
